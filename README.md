@@ -1,2 +1,2 @@
-# reactExercises
-ReactJS Examples to study
+# React Exercises
+Examples to study and improve your knowledgement about ReactJS.
